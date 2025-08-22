@@ -1,0 +1,10 @@
+# requirements.txt
+# no external dependencies
+# Standard library modules used (for reference only; do NOT install via pip):
+# json
+# re
+# typing
+# dataclasses
+# enum
+# abc
+# random
